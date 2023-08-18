@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "*.m": "matlab",
+        "types.h": "c",
+        "stat.h": "c",
+        "spinlock.h": "c"
+    }
+}
